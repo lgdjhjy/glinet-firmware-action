@@ -6,6 +6,9 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
+  - gl-sdk4-ui-zerotierview
+  - gl-sdk4-zerotier
+  - zerotier
 
 
 
